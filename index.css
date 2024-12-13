@@ -1,17 +1,37 @@
 
-.container-fluid{
+#navegacion{
     background-color: aqua;
 }
-.nav-link{
-   color:blue;
+#atm{
+    color: blue;
 }
-
-
-h1{
+#rm{
+    color: blue;
+}
+#barsa{
+    color: blue;
+}
+#rb{
+    color: blue;
+}
+#h1{
     color: aqua;
 }
-
-
-p{
+#p{
     color: aqua;
+}
+#h2{
+    color: aqua;
+}
+#h3{
+    color: aqua;
+}
+#h4{
+    color: aqua;
+}
+#h5{
+    color: aqua;
+}
+#historia{
+    color: pink;
 }
