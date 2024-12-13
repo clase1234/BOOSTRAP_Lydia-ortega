@@ -21,17 +21,70 @@
     color: aqua;
 }
 #h2{
-    color: aqua;
+    color: white;
 }
 #h3{
-    color: aqua;
+    color: white;
 }
 #h4{
-    color: aqua;
+    color: white;
 }
 #h5{
+    color: white;
+}
+#historiareal{
+    color: aqua;
+}
+#historiabar{
     color: aqua;
 }
 #historia{
-    color: pink;
+    color: aqua;
 }
+#historiabarce{
+    color: aqua;
+}
+#cholo{
+    color: white;
+}
+#manuel{
+    color: white;
+}
+#hans{
+    color: white;
+}
+#carlos{
+    color: white;
+}
+#inf1{
+    color: white;
+}
+#inf2{
+    color: white;
+}
+#inf3{
+    color: white;
+}
+#inf4{
+    color: white;
+}
+#tex1{
+    color: white;
+}
+#tex2{
+    color: white;
+}
+#tex3{
+    color: white;
+}
+#tex4{
+    color: white;
+}
+#plantillas{
+    text-align: center;
+    color: palevioletred;
+}
+#footer{
+    background-color: aqua;
+}
+
