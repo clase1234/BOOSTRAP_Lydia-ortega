@@ -82,9 +82,14 @@
 }
 #plantillas{
     text-align: center;
-    color: palevioletred;
+    color:blue;
 }
 #footer{
     background-color: aqua;
+    border: 5px blue;
+    text-align: center;
+}
+#nombre{
+    color: blue;
 }
 
